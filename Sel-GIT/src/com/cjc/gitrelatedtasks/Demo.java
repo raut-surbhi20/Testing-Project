@@ -14,4 +14,9 @@ public class Demo
 	{
 		System.out.println("This is m1 method of GIT Demo class");
 	}
+	
+	public void m2()
+	{
+	System.out.println("m2 method");
+	}
 }
