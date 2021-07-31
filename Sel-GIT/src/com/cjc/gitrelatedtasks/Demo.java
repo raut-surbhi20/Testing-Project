@@ -18,5 +18,6 @@ public class Demo
 	public void m2()
 	{
 	System.out.println("m2 method");
+		System.out.println("Branching and merging");
 	}
 }
